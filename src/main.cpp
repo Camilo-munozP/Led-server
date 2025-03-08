@@ -1,8 +1,8 @@
 #include <Arduino.h>
 #include <WiFi.h>
 
-const char * ssid = "Familia Mupe";
-const char * password = "Dylans2015";
+const char * ssid = "name";
+const char * password = "pass";
 
 WiFiServer server(80);
 
